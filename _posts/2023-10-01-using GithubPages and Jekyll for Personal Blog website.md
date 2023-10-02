@@ -1,4 +1,3 @@
-# Githubpages jekyll for personal blog website
 
 ## prerequisite: install Git, ruby, bundle, webrick
 
