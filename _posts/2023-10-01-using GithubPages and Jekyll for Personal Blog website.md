@@ -4,11 +4,10 @@
 
 
 1. jekyll is based on Ruby.
-RubyGem is equivalent to NPM of Node.js 
-    
-    gem install jekyll
-    
-    gem install bundle
+    RubyGem is equivalent to NPM of Node.js 
+        gem install jekyll
+
+        gem install bundle
 
 2.  gem install vs bundle install
 gem is for glabal packages while bundle is for specific projects
