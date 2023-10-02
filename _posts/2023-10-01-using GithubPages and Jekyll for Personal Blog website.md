@@ -29,7 +29,7 @@ so running bundle install first if there is a Gemfile (Gemfile on the other hand
 
     this error come out :
         
-        cannot load such file -- webrick****
+        cannot load such file -- webrick
 
     That’s because  Ruby 3.0 version up does not come with Webrick(Ruby’s http server),
 
